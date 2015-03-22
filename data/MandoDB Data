@@ -1,0 +1,235 @@
+//MandoDB Data 
+//db.getCollection('invproducts').find({})
+
+//Collection Name is invproducts
+
+{
+   
+    "ProductId" : "ADN-200001",
+    "Name" : "Gray",
+    "Description" : "BOTTOM RAIL",
+    "SupplierName" : "Autodesk",
+    "Currency" : "CAD",
+    "Price" : "10"
+}
+
+
+{
+   
+    "ProductId" : "ADN-200002",
+    "Name" : "Steel - Polished",
+    "Description" : "BALL SCREW BRACKET",
+    "SupplierName" : "Autodesk",
+    "Currency" : "ARS",
+    "Price" : "23.50"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200003",
+    "Description" : "SCREW",
+    "Name" : "Rubber - Black - Version 1.1",
+    "Price" : "15",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200004",
+    "Name" : "Steel",
+    "Description" : "MOUNTING BRACKET",
+    "SupplierName" : "Autodesk",
+    "Currency" : "MXN",
+    "Price" : "200"
+}
+
+
+{
+   
+    "ProductId" : "ADN-200005",
+    "Name" : "Glossy - Black",
+    "Description" : "CONNECTOR PIN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "USD",
+    "Price" : "50.50"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200006",
+    "Name" : "Dark Gray",
+    "Description" : "RAIL SIDE - RIGHT OUTER",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR",
+    "Price" : "50"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200007",
+    "Description" : "BUSHING 4 MM THICK",
+    "Name" : "Beige",
+    "Price" : "100",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "JPY"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200008",
+    "Description" : "FRONT PIVOT WELDMENT",
+    "Name" : "Default",
+    "Price" : "100",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200009",
+    "Description" : "SHIM 8.7 MM X 3 MM",
+    "Name" : "Bronze - Satin",
+    "Price" : "70",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200010",
+    "Description" : "SIDE MOUNTING BAR",
+    "Name" : "Lead",
+    "Price" : "100",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "DKK"
+}
+
+
+{
+   
+    "ProductId" : "ADN-200011",
+    "Description" : "WORM GEAR HOUSING",
+    "Name" : "Smooth - White",
+    "Price" : "100",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200012",
+    "Description" : "BALL SCREW SHAFT",
+    "Name" : "Chrome - Polished",
+    "Price" : "45",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200013",
+    "Description" : "MOTOR SIDE COVER AND MOUNT",
+    "Name" : "Nylon 6",
+    "Price" : "88",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200014",
+    "Description" : "NUT R3423 - M12",
+    "Name" : "Light Gray",
+    "Price" : "100",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200015",
+    "Description" : "ACK PIVOT PLATE",
+    "Name" : "Aluminum - Flat",
+    "Price" : "10",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "DKK"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200016",
+    "Description" : "WIRE CLIP",
+    "Name" : "Smooth - Ivory",
+    "Price" : "25",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200017",
+    "Name" : "Wheat",
+    "Description" : "BELL CRANK SIDE HANDLE",
+    "SupplierName" : "Autodesk",
+    "Currency" : "USD",
+    "Price" : "96"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200018",
+    "Description" : "WIRE 90 DEGREE HOLDER",
+    "Name" : "Cool White",
+    "Price" : "100",
+    "SupplierId" : "ADN",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR"
+}
+
+
+{
+    
+    "ProductId" : "ADN-200019",
+    "Name" : "Brown Dark Leather",
+    "Description" : "HEAD REST COVER",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR",
+    "Price" : "1.10"
+}
+
+
+{
+
+    "ProductId" : "ADN-200020",
+    "Name" : "Steel Blue",
+    "Description" : "WIRE MOUNTING TAB - STRAIGH",
+    "SupplierName" : "Autodesk",
+    "Currency" : "EUR",
+    "Price" : "150"
+}
