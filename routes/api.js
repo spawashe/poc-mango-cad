@@ -64,9 +64,6 @@ mongoClient.connect(url, function(err, mongoDb) {
 ///////////////////////////////////////////////////////////////////////////////
 
 
-
-
-
 router.get('/product/:productId', function (req, res) {
 
     var productId = req.params.productId;
